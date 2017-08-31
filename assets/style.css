@@ -1513,6 +1513,13 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
   color: #ff8000;
 }
 
+.review-text i {
+	display: inline-block;
+	margin-top: 20px;
+  font-size: 14px;
+  color: #ff8000;
+}  /* Additional*/
+
 .review-text p {
   font-family: Poppins;
   font-size: 14px;
@@ -1915,7 +1922,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .contact i {
-	font-size: 42px;
+	font-size: 36px; /*Replace font-size: 42px;*/
 	color: #3333CC;
 }
 
@@ -2015,9 +2022,9 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 
 .back-to-top i {
 	position: relative;
-	left: 13px;
-	top: 8px;
-	font-size: 24px;
+	left: 13px; /* Replace left: 13px;*/
+	top: 6px; /* Replace top: 8px;*/
+	font-size: 21px; /* Replace font-size: 24px;*/
 	color: #FFFFFF;
 	-webkit-transition: 200ms;
 	-moz-transition: 200ms;
