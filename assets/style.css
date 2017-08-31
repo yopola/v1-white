@@ -320,6 +320,7 @@ p {
   .navbar-default .navbar-brand {
     color: #FFFFFF;
 		padding: 16px 15px !important;
+		margin-top: -10px; /* Additional */
   }
 
 	.navbar-default .navbar-brand.nav-white {
